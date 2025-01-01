@@ -20,7 +20,10 @@ This is a simple clone of the Amazon website built using modern web technologies
   - Javascript(js)
   
 - **Deployment**:
-  - Deployed on [Vercel](https://vercel.com/) 
+  - Deployed on [Vercel](https://vercel.com/)
+    
+Deployed link:
+https://amazon-clone-kappa-two.vercel.app/
 
 
 
